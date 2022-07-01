@@ -1,1 +1,1 @@
-myir-zynqMP-petalinux-FZ5
+ZU3EG
